@@ -15,6 +15,7 @@
 - ReactJS
 - Typescript
 - Testing library
+- Eslint (Airbnb)
 
 This repository is based on this guide:
 https://www.freecodecamp.org/news/building-an-electron-application-with-create-react-app-97945861647c/#.ze6c9qin1
