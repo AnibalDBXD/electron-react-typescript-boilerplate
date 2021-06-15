@@ -5,6 +5,12 @@
 1. ``` npm install ```
 2. ``` npm run dev ```
 
+# Build
+
+- Electron build ``` $ npm run electron-build```
+- React build ``` $ npm run react-build```
+- Installer ``` $ npm run build```
+
 # Run tests
 
 ``` $ npm run test```
